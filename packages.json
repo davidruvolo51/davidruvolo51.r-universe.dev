@@ -1,0 +1,18 @@
+[
+  {
+    "package": "rheroicons",
+    "url": "https://github.com/davidruvolo51/rheroicons",
+  },
+  {
+    "package": "browsertools",
+    "url": "https://github.com/davidruvolo51/browsertools"
+  },
+  {
+    "package": "pkgbump",
+    "url": "https://github.com/davidruvolo51/pkgbump",
+  },
+  {
+    "package": "rdConvert",
+    "url": "https://github.com/davidruvolo51/rdConvert"
+  }
+]
